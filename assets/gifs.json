@@ -1,0 +1,82 @@
+{
+  "gifs": [
+    {
+      "name": "The Void",
+      "url": "https://tenor.com/eKH6B6TsiWN.gif",
+      "color": "#6B1FA7",
+      "keywords": ["The Void lol", "Cho'Gath lol", "Kha'Zix lol", "Vel'Koz lol", "Kai'Sa lol", "Kassadin lol", "Malzahar lol", "Rek'Sai lol", "Bel'Veth lol"]
+    },
+    {
+      "name": "Demacia",
+      "url": "https://tenor.com/eKH6B6TsiWN.gif",
+      "color": "#D4DDE6",
+      "keywords": ["Demacia", "Garen lol", "Lux lol", "Jarvan IV lol", "Fiora lol", "Vayne lol", "Quinn lol", "Galio lol", "Sylas lol", "Xin Zhao lol"]
+    },
+    {
+      "name": "The Freljord",
+      "url": "https://tenor.com/eKH6B6TsiWN.gif",
+      "color": "#A6D8F0",
+      "keywords": ["Freljord", "Ashe lol", "Sejuani lol", "Lissandra lol", "Tryndamere lol", "Anivia lol", "Braum lol", "Nunu lol", "Trundle lol", "Gragas lol"]
+    },
+    {
+      "name": "Bandle City",
+      "url": "https://tenor.com/eKH6B6TsiWN.gif",
+      "color": "#E3C96D",
+      "keywords": ["Bandle City", "Teemo lol", "Tristana lol", "Lulu lol", "Heimerdinger lol", "Poppy lol", "Corki lol", "Rumble lol", "Veigar lol", "Yuumi lol"]
+    },
+    {
+      "name": "Shurima",
+      "url": "https://tenor.com/eKH6B6TsiWN.gif",
+      "color": "#C8A656",
+      "keywords": ["Shurima", "Azir lol", "Nasus lol", "Renekton lol", "Sivir lol", "Taliyah lol", "Amumu lol", "Rammus lol", "Xerath lol", "Zilean lol"]
+    },
+    {
+      "name": "Zaun",
+      "url": "https://tenor.com/eKH6B6TsiWN.gif",
+      "color": "#4C8C57",
+      "keywords": ["Zaun", "Jinx lol", "Ekko lol", "Singed lol", "Warwick lol", "Viktor lol", "Twitch lol", "Zac lol", "Renata Glasc lol", "Blitzcrank lol"]
+    },
+    {
+      "name": "Piltover",
+      "url": "https://tenor.com/eKH6B6TsiWN.gif",
+      "color": "#E6C389",
+      "keywords": ["Piltover", "Caitlyn lol chad", "Jayce lol", "Heimerdinger lol", "Vi lol", "Orianna lol", "Ezreal lol", "Camille lol", "Seraphine lol"]
+    },
+    {
+      "name": "Targon",
+      "url": "https://tenor.com/eKH6B6TsiWN.gif",
+      "color": "#7FA6E6",
+      "keywords": ["Targon lol", "Leona lol", "Diana lol", "Pantheon lol", "Taric lol", "Soraka lol", "Zoe lol", "Aphelios lol"]
+    },
+    {
+      "name": "Noxus",
+      "url": "https://tenor.com/eKH6B6TsiWN.gif",
+      "color": "#A83232",
+      "keywords": ["Noxus", "Darius lol", "Draven lol", "Katarina lol", "Swain lol", "LeBlanc lol", "Riven lol", "Samira lol", "Sion lol", "Cassiopeia lol"]
+    },
+    {
+      "name": "Bilgewater",
+      "url": "https://tenor.com/eKH6B6TsiWN.gif",
+      "color": "#3D6E5E",
+      "keywords": ["Bilgewater", "Miss Fortune lol", "Gangplank lol", "Illaoi lol", "Pyke lol", "Nautilus lol", "Twisted Fate lol", "Graves lol"]
+    },
+    {
+      "name": "Ixtal",
+      "url": "https://tenor.com/eKH6B6TsiWN.gif",
+      "color": "#4AAE73",
+      "keywords": ["Ixtal", "Qiyana lol", "Malphite lol", "Zyra lol", "Neeko lol", "Nidalee lol", "tenor rengar meme league"]
+    },
+    {
+      "name": "Shadow Isles",
+      "url": "https://tenor.com/eKH6B6TsiWN.gif",
+      "color": "#2E8A8C",
+      "keywords": ["Shadow Isles lol", "Thresh lol", "Hecarim lol", "Gwen lol", "Viego lol", "Elise lol", "Yorick lol", "Kalista lol", "Karthus lol"]
+    },
+    {
+      "name": "Ionia",
+      "url": "https://tenor.com/eKH6B6TsiWN.gif",
+      "color": "#B56EB0",
+      "keywords": ["Ionia", "Yasuo lol", "Yone lol", "Irelia lol", "Ahri lol", "Karma lol", "Lee Sin lol", "Sett lol", "Wukong lol", "Akali lol"]
+    }
+  ]
+}
