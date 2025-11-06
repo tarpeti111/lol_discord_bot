@@ -18,6 +18,7 @@ module.exports = {
     .setName('spin')
     .setDescription('does the spin'),
   async execute(interaction) {
+    pollActive = false;
     await interaction.reply('https://tenor.com/b0Ot1.gif');
 
     // pick a random gif object and then a random keyword
